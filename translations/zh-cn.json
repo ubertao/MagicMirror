@@ -23,6 +23,7 @@
 	"WNW": "西偏北风",
 	"NW": "西北风",
 	"NNW": "北偏西风",
+	"FEELS": "体感",
 
 	"UPDATE_NOTIFICATION": "MagicMirror² 有新的更新",
 	"UPDATE_NOTIFICATION_MODULE": "模块 {MODULE_NAME} 可更新",
